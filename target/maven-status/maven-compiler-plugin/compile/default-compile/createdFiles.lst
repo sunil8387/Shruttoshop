@@ -1,0 +1,17 @@
+com\mycompany\webapp\JakartaRestConfiguration.class
+com\mycompany\webapp\resources\JakartaEE10Resource.class
+com\mycompany\webapp\entities\Cart.class
+com\mycompany\webapp\servlet\RegisterServlet.class
+com\mycompany\webapp\helper\FactoryProvider.class
+com\mycompany\webapp\helper\Helper.class
+com\mycompany\webapp\servlet\LogoutServlet.class
+com\mycompany\webapp\dao\UserDao.class
+com\mycompany\webapp\entities\Product.class
+com\mycompany\webapp\dao\CategoryDao.class
+ProductOperationServlet.class
+com\mycompany\webapp\entities\User.class
+com\mycompany\webapp\dao\ProductDao.class
+com\mycompany\webapp\servlet\AddToCartServlet.class
+com\mycompany\webapp\entities\Category.class
+com\mycompany\webapp\servlet\LoginServlet.class
+com\mycompany\webapp\servlet\QuantityIncDecServlet.class
